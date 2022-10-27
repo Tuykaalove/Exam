@@ -1,1 +1,269 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
 
+.samsung-header-container {
+    width: 1728px;
+
+
+}
+
+.samsung-header-box{
+width: 100%;
+display: flex;
+justify-content: start;
+gap: 280px;
+
+}
+
+.samsung-header-logo {
+    
+    margin-top: 44px;
+    margin-left: 40px;
+    width: 140px;
+    height: 20.83px;
+    align-items: center;
+    display: block;
+}
+.sansung-header-logo img{
+    width: 100%;
+}
+
+
+.samsung-header-menu{
+   
+   /* justify-items: flex-end; */
+   margin-top: 44px;
+   
+  
+
+}
+
+.samsung-header-menu{
+    display: flex;
+    gap:30px;
+}
+
+.col-img{
+    margin-top: 30px;
+   
+}
+
+.header-menu-item {
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    line-height: 21px;
+
+}
+
+/* header heseg */
+.header-image-container {
+    position: relative;
+    display: flex;
+}
+
+.header-image-box{
+    position: absolute;
+}
+
+.header-image-bigtitle{
+    flex: 1;
+    position: absolute;
+    font-size: 70px;
+    line-height: 105px;
+    align-items: center;
+    margin-top: 463px;
+
+}
+
+/* images section*/
+.images{
+    width: 1728px;
+    margin: 0;
+    padding: 0;
+}
+
+.images-container {
+    display: flex;
+    width: 100vw;
+
+}
+
+.image5, .image6 {
+    flex: 1;
+    width: 50vw;
+    
+    position: relative;
+}
+
+.image6 {
+    flex: 1;
+    width: 50vw;
+}
+
+.image5-title {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 34px;
+    margin-left: 42px;
+    position: absolute;
+    width: 298px;
+    height: 78px;
+    line-height: 36px;
+    
+}
+
+.image6-title{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 34px;
+    right: 30px;
+    position: absolute;
+    width: 309px;
+    height: 72px;
+    line-height: 36px;
+}
+
+/* the all section */
+
+.the-all {
+    width: 1728px;
+    margin: 0;
+    padding: 0;
+}
+
+.the-all-bigtitle{
+    font-size: 30px;
+}
+
+.the-all-container {
+    width: 100%;
+}
+
+.the-all-groups{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.group1-rectangle {
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+    
+}
+
+
+.group1-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;
+}
+
+
+.group2-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #333399;
+}
+
+
+.group2-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;
+}
+
+.group3-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+}
+
+
+.group3-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;
+}
+
+/* group4 */
+.group4-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+}
+
+
+.group4-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;
+}
+/* group5 */
+.group5-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+}
+
+
+.group5-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;}
+    /* group 6 */
+
+    .group6-rectangle{
+        width: 432px;
+        height: 480px;
+        background-color: #F6F6F7;
+    }
+    
+    
+    .group6-title {
+        font-size: 30px;
+        position: absolute;
+        margin-top: 340px;
+        margin-left: 149px;}
+
+       
+ /* group 7*/
+
+ .group7-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+}
+
+
+.group7-title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;}
+
+
+    /* group8 */
+    /* group 7*/
+
+ .group8-rectangle{
+    width: 432px;
+    height: 480px;
+    background-color: #F6F6F7;
+}
+
+
+.group8 -title {
+    font-size: 30px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 149px;}
